@@ -1,0 +1,11 @@
+{
+  "name": "timeoutdemo",
+  "version": "1.0.0",
+  "description": "timeout demo",
+  "main": "simple_timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
